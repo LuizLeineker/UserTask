@@ -3,8 +3,8 @@
 Trabalho realizado para obter nota  na matéria de Desenvolvimento de Aplicativos Móveis.
 
 ## Integrantes:
-Luiz André Hoffmann Leineker
-Ricardo Polato Bernaski
+-Luiz André Hoffmann Leineker
+-Ricardo Polato Bernaski
 
 ## Navegação:
 
