@@ -3,8 +3,8 @@
 Trabalho realizado para obter nota  na matéria de Desenvolvimento de Aplicativos Móveis.
 
 ## Integrantes:
-Luiz André Hoffmann Leineker 
-Ricardo Polato Bernaski 
+Luiz André Hoffmann Leineker    
+Ricardo Polato Bernaski   
 
 ## Navegação:
 
@@ -12,7 +12,7 @@ No trabalho usamos "Navigation Compose", com a rota para a tela principal("lista
 detalhes("detalhes/{id}/{username}) & tarefas("tarefas/{userId}/{username}") 
 
 ## Extras:
-Contador: Pode se observado na pagina inicial e na pagina de tarefas. O contandor é para usuários, tarefas & tarefas concluidas 
+Contador: Pode se observado na pagina inicial e na pagina de tarefas. O contandor é para usuários, tarefas & tarefas concluidas    
 Remover por long press: Remove a Tarefa ao ser pressionado por um certo período de tempo, exibindo um aviso de remoção. 
 
 ## OBS
